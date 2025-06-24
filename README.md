@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Fareed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan. Currently and permanently living in United States.</h3>
 
+- 🌱 I’m currently learning **GraphQL**
+
+- 👨‍💻 All of my projects are available at [https://next-portfolio-website-rouge.vercel.app/](https://next-portfolio-website-rouge.vercel.app/)
+
+- 💬 Ask me about **ReactJS, NextJS**
+
+- 📫 How to reach me **fareedalam64@gmail.com**
+
+- ⚡ Fun fact **I love gaming**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syed-fareed-alam-nizami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-fareed-alam-nizami" height="30" width="40" /></a>
@@ -12,4 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fareednizami1&show_icons=true&locale=en&layout=compact" alt="fareednizami1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fareednizami1&show_icons=true&locale=en" alt="fareednizami1" /></p>
-
