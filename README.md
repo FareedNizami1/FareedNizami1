@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fareed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan. Currently and permanently living in United States.</h3>
+<h3 align="center">I have done my Bachelor in Mechatronics Engineering.</h3>
+<h3 align="center">I am also a passionate frontend developer from Pakistan. Currently and permanently living in United States.</h3>
 
 - 🌱 I’m currently learning **GraphQL**
 
